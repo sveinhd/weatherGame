@@ -1,4 +1,4 @@
-# weatherGame
+# A Weather Game
 
 A simple Weather Guessing Game.
    
